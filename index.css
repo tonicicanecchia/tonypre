@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+  color:white;
+  padding:60px;
+  font-size: 75px;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 4em;
+  font-family: fantasy;
+  
+  }
+  
+  .myname{
+    
+    width:1400px;
+    background-color:orange;
+  }
+  .text{
+    text-align: center;
+    font-size: 35px;
+    line-height: 2;
+    border:6px solid #eee;
+  letter-spacing: 2px;
+  font-family: fantasy;
+  padding: 40px;
+  color: orange;
+
+  }
+  
+    
+  
+  .img{
+    width: 320px;
+    margin:10px 10px 10px 10px;
+    border-radius: 999em;
+    float:left;
+    padding:20px;
+    
+  }
+  
+  
+  .description{
+    background-color:rgb(25, 33, 41);
+    
+  }
+  
+  .description1{
+    
+    padding: 30px;
+    border: 6px solid #eee;
+    line-height: 2em;
+  }
+  .question{
+    color:rgba(25, 33, 41);
+      text-align: center;
+    font-size: 45px;
+    font-family:fantasy;
+
+  }
+  
+  .answer{
+    text-align: center;
+    font-size: 45px;
+    font-family: fantasy;
+    color:white;
+    
+  }
